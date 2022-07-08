@@ -1,6 +1,6 @@
 # Windows is bad, change my mind 🤓☕️
 
-Hello, I'm Renee. I love contributing to open source software and their documentation.
+I'm OogaBoodotGa. I love contributing to open source software and their documentation.
 
 <!---
 reneeqytan/reneeqytan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
