@@ -1,6 +1,8 @@
-# Windows is bad, change my mind 🤓☕️
+# CultOfHeisenberg
 
-I'm OogaBoodotGa. I love contributing to open source software and their documentation.
+Being the best at something is a very rare thing. You don’t just toss something like that away
+
+I live my life by the words of Walter Hartwell White. I program my software by the words of a random Stack Overflow member.
 
 <!---
 reneeqytan/reneeqytan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
